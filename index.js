@@ -5,3 +5,5 @@ function myNAme(){
     
    console.log("my name is "+name1);
 }
+
+console.log("another journey");
