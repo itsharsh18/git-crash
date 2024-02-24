@@ -1,4 +1,7 @@
-console.log("24");
+const age = 20;
+const name1  = "Harsh jha";
 
-const a = 24;
-const c = "varsh hai c";
+function myNAme(){
+    
+   console.log("my name is "+name1);
+}
