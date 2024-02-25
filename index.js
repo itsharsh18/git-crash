@@ -3,7 +3,7 @@ const name1  = "Harsh jha";
 
 function myNAme(){
     
-   console.log("my name is "+name1);
+   console.log(`my name is ${name1}` );
 }
 
 console.log("another journey");                
